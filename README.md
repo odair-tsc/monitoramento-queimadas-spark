@@ -185,12 +185,7 @@ O modelo construído a partir da integração das bases apresentou o melhor dese
 
 ---
 
-# Autores
-
-- Odair F.
-- Carlos B.
-- Lucas Jr.
-- Bruna B.
+# Desenvolvido em Grupo
 
 Curso de Sistemas de Informação
 
